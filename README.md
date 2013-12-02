@@ -1,6 +1,6 @@
 # cljs-boids
 
-A Clojure library designed to ... well, that part is up to you.
+This is the wrong version. Check out https://github.com/jwilner/boids
 
 ## Usage
 
